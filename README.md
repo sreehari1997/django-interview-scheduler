@@ -7,4 +7,10 @@
 ### 2. schedule/?interviewer=id&candidate=id
 Filter the slots and return the available time slots of both interviewer and candidate
 
+## Heroku
+I've hosted this api on heroku
+https://interviews-api.herokuapp.com
+check the credentials.txt to login as admin/user
+
+
 
