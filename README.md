@@ -42,7 +42,7 @@ python3 manage.py runserver
 login to view the slots and to view interview and Slotoption you need superuser privilage
 
 ## Swagger-Docs
-check endpoint to view swagger documentation
+check this endpoint to view swagger documentation
 ```bash
 swagger-docs/
 ```
